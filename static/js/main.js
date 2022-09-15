@@ -10593,6 +10593,7 @@
                     { label: "pic_9", value: tt },
                 ],
                 at = [
+		    { label: "Brave", value: "search.brave.com/search" }, 
                     { label: "DuckDuckGo", value: "duckduckgo.com/" },
                     { label: "Google", value: "google.com/search" },
                     { label: "Qwant", value: "qwant.com/" },
